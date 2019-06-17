@@ -1,0 +1,18 @@
+.container{
+    background-color: rgb(255, 11, 32);
+    border solid black 2px;
+    height:250px;
+    width: 500px;
+    margin: 20px;
+    padding: 20 px;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
+}
+.item{
+    height:50px;
+    width:50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    border: solid rgb(41, 35, 35) 2px;
+}

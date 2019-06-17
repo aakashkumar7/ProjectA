@@ -1,0 +1,12 @@
+div {
+height: 60px;
+width: 60px;
+margin:20px;
+background-color: crimson;
+border: 2px solid black;
+}
+#div3 {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
